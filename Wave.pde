@@ -2,76 +2,99 @@ class Wave {
   PVector loc, vel, acc;
   float r; 
   color c;
-  float amp = 50;
-  float freq = .5;
+  float amp;
+  float freq;
   float xO;
   float sineStart;
   float rStart;
   PImage bubbleImage;
   float rad;
   int hue, sat, bright;
+  float life;
+  JSONArray ellipseArray;
   float lifespan;
+  float waveLife = 400;
+  float alpha = 255;
+  float frameStart;
+  float radio = 0;
+  ArrayList <WaveDot> waveDots;
+  //WaveDot[] waveDots;
 
-  Wave(float x, float y, float radius, int h, int s, int b, float xOff, float xVel, float ss, PImage bI, float l) {
-    loc = new PVector(x, y);
-    vel = new PVector(xVel, 0);
-    r = radius;
-    rStart = radius;
+  Wave(float _x, float _y, float a, float f, float _rad, int h, int s, float xOff, float xVel, float ss, PImage bI, float l, int fs, int b) {
+    rStart = _rad;
     bubbleImage = bI;
 
     xO = xOff;
     sineStart = ss;
-    rad =  random(TWO_PI);
+    rad =  _rad;
     hue = h;
     sat = s;
     bright = b;
+    life = l;
     lifespan = l;
+    freq = f;
+    amp = a;
+    ellipseArray = new JSONArray();
+    frameStart = fs;
+    waveDots = new ArrayList <WaveDot>();
+    waveDots.add(new WaveDot(_x, _y, 0, hue, sat, bright));
+ 
   }
 
-  void update(float yOff, float xOff) {
-    loc.add(xOff, yOff); 
-    loc.add(vel);
-    //loc.mult(yOff);
-    if(lifespan > 127) {
-      r = map(lifespan, 255, 127, 0, rStart);
-    } else {
-      r = map(lifespan, 127, 0, rStart, 0);
-
+  void update() {
+    
+    if (waveDots.size() >= 1) {
+      WaveDot firstWaveDot = waveDots.get(0);
+      float xStart = firstWaveDot.x;
+      float yStart = firstWaveDot.y;
+       //if there is still "life(change to growth)" remaining add a new node
+      if (life > 0) {
+        if (life > lifespan/2) {
+          r = map(life, lifespan, lifespan/2, 0, rStart);//*noise(frameCount/100)*10;
+        } else {
+          r = map(life, lifespan/2, 0, rStart, 0);
+        }
+        float x = xStart-frameStart*xO+frameCount*xO;
+        float y = yStart-sin((frameCount*2)*freq*2)*amp/4;
+        waveDots.add(new WaveDot(x, y, r, hue, sat, bright));
+        life-= 2;
+      }
+      waveLife -= 1;
     }
-    if(r < 0) r = 0;
+  }
 
-    if (loc.x > abs(r*2)+width) {
-      loc.x = -abs(r*2);
+
+  //Delete node until life is no more, once life no more, isDead == true
+  void deleteNode() {
+    if (waveLife <= 255 && !isDead()) {
+      if (waveDots.size() >= 1) {
+        waveDots.remove(0);
+        alpha = waveLife;
+      }
     }
-    lifespan-= 5;
-    if(lifespan < lifeMin) lifespan = 255;
+  }
+
+  boolean isDead() {
+    if (waveLife <= 0) {
+      return true;
+    } else { 
+      return false;
+    }
   }
 
   void display() {
     imageMode(CENTER);
-    int mapAlpha = int(map(loc.y, height/3, height, 255, 20));  
-    int mapBrightness = int(map(loc.y, height, height/1.5 , 0, bright));  
-
     noStroke();
-    pushMatrix();
-    float scalar = map(r, 0, rStart, 0, 2);
-
-    translate(loc.x, loc.y);
-    scale(scalar);
-    fill(0);
-    tint(0);
-
-    image(bubbleImage, 0, 0);
-    //  ellipse(0, 0, r-.1, r-.1);
-    //fill(c, mapAlpha);
-    tint(hue, sat, mapBrightness);
-    rotate(rad);
-    image(bubbleImage, 0, 0);
-    //ellipse(0, 0, r, r);
-    popMatrix();
-  }
-  
-  void addDot(){
-    
+    for (int i =0; i < waveDots.size(); i++) {
+      WaveDot wd = waveDots.get(i);
+      waveDots.get(i).update(life, lifespan, i);
+      if (wd.x > -200 && wd.x < width+200 && wd.y < height+200) {
+        pushMatrix();
+        //translate(w.x, w.y);
+        wd.display();
+        //ellipse(0, 0, w.r,w.r);
+        popMatrix();
+      }
+    }
   }
 }
