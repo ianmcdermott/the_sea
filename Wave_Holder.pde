@@ -8,6 +8,7 @@ class WaveHolder {
   float x, y, w, h;
   int t;
   color c;
+  float newFreq, newAmp;
 
   WaveHolder(float _x, float _y, float _w, float _h, float aMin, float aMax, float fMin, float fMax, int _t) {
     ampMin = aMin;
@@ -21,10 +22,13 @@ class WaveHolder {
     t = _t;
     c= color(random(255), random(255), random(255));
     println(_t);
+    
+    newFreq = random(fMin, fMax);
+        newAmp = random(aMin, aMax);
   }
 
   void addWave(float lMin, float lMax) {
-    waveArray.add(new Wave(random(x, w), random(y, y+h*2), 
+    waveArray.add(new Wave(random(x, w), random(y, y+h*10), 
       random(ampMin, ampMax), random(freqMin, freqMax), 
       random(50, 80), int(random(210, 240)), int(random(100, 255)), 
       random(.5, 10), random(5), random(200), bubble[int(random(bubble.length))], random(lMin, lMax), frameCount, t));
@@ -35,7 +39,7 @@ class WaveHolder {
 
   void drawWave() {
     for (Wave w : waveArray) {
-      w.update();
+      w.update(w.yStart-sin(frameCount*4*freq)*amp);
       w.deleteNode();
       w.display();
     }
@@ -56,4 +60,7 @@ class WaveHolder {
       }
     }
   }
+  
+  //Wave ww = waveArray.get(0);
+  //println(ww.y);
 }

@@ -38,9 +38,9 @@ void draw() {
     y = cos(frameCount*freq+offset*i)*amp+height;
 
     if ((frameCount % 8) == 0) {
-      for(int j = 0; j < 2; j++){
-      waveHolder[i].addWave(lifeMin, lifeMax);
-    }
+      for (int j = 0; j < 2; j++) {
+        waveHolder[i].addWave(lifeMin, lifeMax);
+      }
     }
 
     colorMode(HSB, 360, 255, 255);
@@ -51,7 +51,7 @@ void draw() {
     waveHolder[i].update();
     popMatrix();
   }
-
+  
   for (Shimmer s : shimmer) {
     //s.update();
     //s.display();

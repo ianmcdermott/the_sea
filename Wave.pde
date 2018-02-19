@@ -19,6 +19,10 @@ class Wave {
   float radio = 0;
   ArrayList <WaveDot> waveDots;
   //WaveDot[] waveDots;
+  float xStart;
+  float yStart;
+  float x ;
+  float y; 
 
   Wave(float _x, float _y, float a, float f, float _rad, int h, int s, float xOff, float xVel, float ss, PImage bI, float l, int fs, int b) {
     rStart = _rad;
@@ -37,25 +41,25 @@ class Wave {
     ellipseArray = new JSONArray();
     frameStart = fs;
     waveDots = new ArrayList <WaveDot>();
-    waveDots.add(new WaveDot(_x, _y, 0, hue, sat, bright));
- 
+     xStart = _x;
+     yStart = _y;
+    waveDots.add(new WaveDot(xStart, yStart, 0, hue, sat, bright));
   }
 
-  void update() {
-    
+  void update(float yOff) {
+
     if (waveDots.size() >= 1) {
       WaveDot firstWaveDot = waveDots.get(0);
-      float xStart = firstWaveDot.x;
-      float yStart = firstWaveDot.y;
-       //if there is still "life(change to growth)" remaining add a new node
+
+      //if there is still "life(change to growth)" remaining add a new node
       if (life > 0) {
-        if (life > lifespan/2) {
+        if (life > 2) {
           r = map(life, lifespan, lifespan/2, 0, rStart);//*noise(frameCount/100)*10;
         } else {
           r = map(life, lifespan/2, 0, rStart, 0);
         }
-        float x = xStart-frameStart*xO+frameCount*xO;
-        float y = yStart-sin((frameCount*2)*freq*2)*amp/4;
+        x = xStart-frameStart*xO+(frameCount)*xO;
+        y = yOff;
         waveDots.add(new WaveDot(x, y, r, hue, sat, bright));
         life-= 2;
       }
