@@ -24,7 +24,11 @@ class Wave {
   float x ;
   float y; 
 
-  Wave(float _x, float _y, float a, float f, float _rad, int h, int s, float xOff, float xVel, float ss, PImage bI, float l, int fs, int b) {
+  float[] randx = new float[5];
+  float[] randy = new float[5];
+  float[] randr = new float[5];
+
+  Wave(float _x, float _y, float _rad, float a, float f, int h, int s, float xOff, float xVel, float ss, PImage bI, float l, int fs, int b) {
     rStart = _rad;
     bubbleImage = bI;
 
@@ -41,9 +45,15 @@ class Wave {
     ellipseArray = new JSONArray();
     frameStart = fs;
     waveDots = new ArrayList <WaveDot>();
-     xStart = _x;
-     yStart = _y;
+    xStart = _x;
+    yStart = _y;
     waveDots.add(new WaveDot(xStart, yStart, 0, hue, sat, bright));
+
+    //for (int i = 0; i < randx.length; i++) {
+    //  randx[i] = random(50, 300);
+    //  randy[i] = random(50, 300);
+    //  randr[i] = random(1, 3);
+    //}
   }
 
   void update(float yOff) {
@@ -65,11 +75,17 @@ class Wave {
       }
       waveLife -= 1;
     }
+
+    //clean up dead dots
+    for (int i = waveDots.size()-1; i > 0; i--) {
+      if (waveDots.get(i).isDead) waveDots.remove(i);
+    }
   }
 
 
   //Delete node until life is no more, once life no more, isDead == true
   void deleteNode() {
+
     if (waveLife <= 255 && !isDead()) {
       if (waveDots.size() >= 1) {
         waveDots.remove(0);
@@ -94,6 +110,8 @@ class Wave {
       waveDots.get(i).update(life, lifespan, i);
       if (wd.x > -200 && wd.x < width+200 && wd.y < height+200) {
         pushMatrix();
+    //    for (int i = 0; i < randx.length; i++) {
+    //}
         //translate(w.x, w.y);
         wd.display();
         //ellipse(0, 0, w.r,w.r);

@@ -1,0 +1,4500 @@
+{
+  "frameNumber": 0,
+  "artist": "Guest Artist",
+  "__v": 0,
+  "artistId": "5a4bb79b742ffa0014b85106",
+  "_id": {"$oid": "5a4edc4a7c42310014584fcc"},
+  "title": "Wee Seedling",
+  "creationDate": {"$date": "2018-01-05T02:00:43.131Z"},
+  "animationId": "5a3d97b4734d1d12b674f54e",
+  "frame": [
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 240,
+        "mouseY": 628,
+        "pmouseY": 627,
+        "pmouseX": 240
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 240,
+        "mouseY": 629,
+        "pmouseY": 628,
+        "pmouseX": 240
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 242,
+        "mouseY": 632,
+        "pmouseY": 629,
+        "pmouseX": 240
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 245,
+        "mouseY": 638,
+        "pmouseY": 632,
+        "pmouseX": 242
+      }],
+      "radius": 61.70820236206055,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 249,
+        "mouseY": 646,
+        "pmouseY": 638,
+        "pmouseX": 245
+      }],
+      "radius": 63.944271087646484,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 254,
+        "mouseY": 659,
+        "pmouseY": 646,
+        "pmouseX": 249
+      }],
+      "radius": 68.92839050292969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 260,
+        "mouseY": 675,
+        "pmouseY": 659,
+        "pmouseX": 254
+      }],
+      "radius": 72.08800506591797,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 268,
+        "mouseY": 693,
+        "pmouseY": 675,
+        "pmouseX": 260
+      }],
+      "radius": 74.69771575927734,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 277,
+        "mouseY": 708,
+        "pmouseY": 693,
+        "pmouseX": 268
+      }],
+      "radius": 72.49285888671875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 284,
+        "mouseY": 721,
+        "pmouseY": 708,
+        "pmouseX": 277
+      }],
+      "radius": 69.76482391357422,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 288,
+        "mouseY": 729,
+        "pmouseY": 721,
+        "pmouseX": 284
+      }],
+      "radius": 63.944271087646484,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 292,
+        "mouseY": 738,
+        "pmouseY": 729,
+        "pmouseX": 288
+      }],
+      "radius": 64.84886169433594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 294,
+        "mouseY": 746,
+        "pmouseY": 738,
+        "pmouseX": 292
+      }],
+      "radius": 63.246212005615234,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 296,
+        "mouseY": 755,
+        "pmouseY": 746,
+        "pmouseX": 294
+      }],
+      "radius": 64.21954345703125,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 298,
+        "mouseY": 762,
+        "pmouseY": 755,
+        "pmouseX": 296
+      }],
+      "radius": 62.28010940551758,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 301,
+        "mouseY": 768,
+        "pmouseY": 762,
+        "pmouseX": 298
+      }],
+      "radius": 61.70820236206055,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 303,
+        "mouseY": 773,
+        "pmouseY": 768,
+        "pmouseX": 301
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 306,
+        "mouseY": 776,
+        "pmouseY": 773,
+        "pmouseX": 303
+      }],
+      "radius": 59.24264144897461,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 308,
+        "mouseY": 780,
+        "pmouseY": 776,
+        "pmouseX": 306
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 310,
+        "mouseY": 783,
+        "pmouseY": 780,
+        "pmouseX": 308
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 311,
+        "mouseY": 784,
+        "pmouseY": 783,
+        "pmouseX": 310
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 311,
+        "mouseY": 785,
+        "pmouseY": 784,
+        "pmouseX": 311
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 312,
+        "mouseY": 785,
+        "pmouseY": 785,
+        "pmouseX": 311
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 313,
+        "mouseY": 785,
+        "pmouseY": 785,
+        "pmouseX": 312
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 316,
+        "mouseY": 786,
+        "pmouseY": 785,
+        "pmouseX": 313
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 322,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 316
+      }],
+      "radius": 61,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 331,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 322
+      }],
+      "radius": 64,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 342,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 331
+      }],
+      "radius": 66,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 356,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 342
+      }],
+      "radius": 69,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 379,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 356
+      }],
+      "radius": 78,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 403,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 379
+      }],
+      "radius": 79,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 433,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 403
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 459,
+        "mouseY": 786,
+        "pmouseY": 786,
+        "pmouseX": 433
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 487,
+        "mouseY": 784,
+        "pmouseY": 786,
+        "pmouseX": 459
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 507,
+        "mouseY": 783,
+        "pmouseY": 784,
+        "pmouseX": 487
+      }],
+      "radius": 75.02498626708984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 528,
+        "mouseY": 783,
+        "pmouseY": 783,
+        "pmouseX": 507
+      }],
+      "radius": 76,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 546,
+        "mouseY": 783,
+        "pmouseY": 783,
+        "pmouseX": 528
+      }],
+      "radius": 73,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 566,
+        "mouseY": 783,
+        "pmouseY": 783,
+        "pmouseX": 546
+      }],
+      "radius": 75,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 584,
+        "mouseY": 782,
+        "pmouseY": 783,
+        "pmouseX": 566
+      }],
+      "radius": 73.02775573730469,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 599,
+        "mouseY": 781,
+        "pmouseY": 782,
+        "pmouseX": 584
+      }],
+      "radius": 70.03329467773438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 613,
+        "mouseY": 778,
+        "pmouseY": 781,
+        "pmouseX": 599
+      }],
+      "radius": 69.31782531738281,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 626,
+        "mouseY": 775,
+        "pmouseY": 778,
+        "pmouseX": 613
+      }],
+      "radius": 68.34166717529297,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 640,
+        "mouseY": 773,
+        "pmouseY": 775,
+        "pmouseX": 626
+      }],
+      "radius": 69.14213562011719,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 652,
+        "mouseY": 772,
+        "pmouseY": 773,
+        "pmouseX": 640
+      }],
+      "radius": 67.04159545898438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 665,
+        "mouseY": 771,
+        "pmouseY": 772,
+        "pmouseX": 652
+      }],
+      "radius": 68.03840637207031,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 676,
+        "mouseY": 770,
+        "pmouseY": 771,
+        "pmouseX": 665
+      }],
+      "radius": 66.04536437988281,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 688,
+        "mouseY": 769,
+        "pmouseY": 770,
+        "pmouseX": 676
+      }],
+      "radius": 67.04159545898438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 698,
+        "mouseY": 768,
+        "pmouseY": 769,
+        "pmouseX": 688
+      }],
+      "radius": 65.04987335205078,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 707,
+        "mouseY": 767,
+        "pmouseY": 768,
+        "pmouseX": 698
+      }],
+      "radius": 64.05538940429688,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 714,
+        "mouseY": 766,
+        "pmouseY": 767,
+        "pmouseX": 707
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 720,
+        "mouseY": 766,
+        "pmouseY": 766,
+        "pmouseX": 714
+      }],
+      "radius": 61,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 726,
+        "mouseY": 766,
+        "pmouseY": 766,
+        "pmouseX": 720
+      }],
+      "radius": 61,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 731,
+        "mouseY": 767,
+        "pmouseY": 766,
+        "pmouseX": 726
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 738,
+        "mouseY": 768,
+        "pmouseY": 767,
+        "pmouseX": 731
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 745,
+        "mouseY": 768,
+        "pmouseY": 768,
+        "pmouseX": 738
+      }],
+      "radius": 62,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 754,
+        "mouseY": 768,
+        "pmouseY": 768,
+        "pmouseX": 745
+      }],
+      "radius": 64,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 760,
+        "mouseY": 769,
+        "pmouseY": 768,
+        "pmouseX": 754
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 765,
+        "mouseY": 769,
+        "pmouseY": 769,
+        "pmouseX": 760
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 766,
+        "mouseY": 769,
+        "pmouseY": 769,
+        "pmouseX": 765
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 767,
+        "mouseY": 769,
+        "pmouseY": 769,
+        "pmouseX": 766
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 767,
+        "mouseY": 767,
+        "pmouseY": 769,
+        "pmouseX": 767
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 769,
+        "mouseY": 763,
+        "pmouseY": 767,
+        "pmouseX": 767
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 772,
+        "mouseY": 756,
+        "pmouseY": 763,
+        "pmouseX": 769
+      }],
+      "radius": 62.61577224731445,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 778,
+        "mouseY": 742,
+        "pmouseY": 756,
+        "pmouseX": 772
+      }],
+      "radius": 70.2315444946289,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 785,
+        "mouseY": 724,
+        "pmouseY": 742,
+        "pmouseX": 778
+      }],
+      "radius": 74.3132095336914,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 794,
+        "mouseY": 694,
+        "pmouseY": 724,
+        "pmouseX": 785
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 807,
+        "mouseY": 664,
+        "pmouseY": 694,
+        "pmouseX": 794
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 819,
+        "mouseY": 635,
+        "pmouseY": 664,
+        "pmouseX": 807
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 828,
+        "mouseY": 615,
+        "pmouseY": 635,
+        "pmouseX": 819
+      }],
+      "radius": 76.93171691894531,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 834,
+        "mouseY": 601,
+        "pmouseY": 615,
+        "pmouseX": 828
+      }],
+      "radius": 70.2315444946289,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 838,
+        "mouseY": 591,
+        "pmouseY": 601,
+        "pmouseX": 834
+      }],
+      "radius": 65.77033233642578,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 839,
+        "mouseY": 586,
+        "pmouseY": 591,
+        "pmouseX": 838
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 840,
+        "mouseY": 584,
+        "pmouseY": 586,
+        "pmouseX": 839
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 841,
+        "mouseY": 583,
+        "pmouseY": 584,
+        "pmouseX": 840
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 841,
+        "mouseY": 582,
+        "pmouseY": 583,
+        "pmouseX": 841
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 842,
+        "mouseY": 580,
+        "pmouseY": 582,
+        "pmouseX": 841
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 842,
+        "mouseY": 579,
+        "pmouseY": 580,
+        "pmouseX": 842
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 841,
+        "mouseY": 579,
+        "pmouseY": 579,
+        "pmouseX": 842
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 835,
+        "mouseY": 580,
+        "pmouseY": 579,
+        "pmouseX": 841
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 827,
+        "mouseY": 581,
+        "pmouseY": 580,
+        "pmouseX": 835
+      }],
+      "radius": 63.062255859375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 814,
+        "mouseY": 583,
+        "pmouseY": 581,
+        "pmouseX": 827
+      }],
+      "radius": 68.15294647216797,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 801,
+        "mouseY": 586,
+        "pmouseY": 583,
+        "pmouseX": 814
+      }],
+      "radius": 68.34166717529297,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 783,
+        "mouseY": 590,
+        "pmouseY": 586,
+        "pmouseX": 801
+      }],
+      "radius": 73.4390869140625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 765,
+        "mouseY": 593,
+        "pmouseY": 590,
+        "pmouseX": 783
+      }],
+      "radius": 73.248291015625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 741,
+        "mouseY": 594,
+        "pmouseY": 593,
+        "pmouseX": 765
+      }],
+      "radius": 79.02082824707031,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 712,
+        "mouseY": 595,
+        "pmouseY": 594,
+        "pmouseX": 741
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 680,
+        "mouseY": 599,
+        "pmouseY": 595,
+        "pmouseX": 712
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 653,
+        "mouseY": 602,
+        "pmouseY": 599,
+        "pmouseX": 680
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 624,
+        "mouseY": 607,
+        "pmouseY": 602,
+        "pmouseX": 653
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 601,
+        "mouseY": 612,
+        "pmouseY": 607,
+        "pmouseX": 624
+      }],
+      "radius": 78.53720092773438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 575,
+        "mouseY": 616,
+        "pmouseY": 612,
+        "pmouseX": 601
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 554,
+        "mouseY": 617,
+        "pmouseY": 616,
+        "pmouseX": 575
+      }],
+      "radius": 76.02379608154297,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 532,
+        "mouseY": 618,
+        "pmouseY": 617,
+        "pmouseX": 554
+      }],
+      "radius": 77.02271270751953,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 513,
+        "mouseY": 618,
+        "pmouseY": 618,
+        "pmouseX": 532
+      }],
+      "radius": 74,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 500,
+        "mouseY": 618,
+        "pmouseY": 618,
+        "pmouseX": 513
+      }],
+      "radius": 68,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 488,
+        "mouseY": 619,
+        "pmouseY": 618,
+        "pmouseX": 500
+      }],
+      "radius": 67.04159545898438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 474,
+        "mouseY": 620,
+        "pmouseY": 619,
+        "pmouseX": 488
+      }],
+      "radius": 69.0356674194336,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 453,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 474
+      }],
+      "radius": 76,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 428,
+        "mouseY": 619,
+        "pmouseY": 620,
+        "pmouseX": 453
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 397,
+        "mouseY": 617,
+        "pmouseY": 619,
+        "pmouseX": 428
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 377,
+        "mouseY": 617,
+        "pmouseY": 617,
+        "pmouseX": 397
+      }],
+      "radius": 75,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 359,
+        "mouseY": 619,
+        "pmouseY": 617,
+        "pmouseX": 377
+      }],
+      "radius": 73.11077117919922,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 344,
+        "mouseY": 620,
+        "pmouseY": 619,
+        "pmouseX": 359
+      }],
+      "radius": 70.03329467773438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 326,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 344
+      }],
+      "radius": 73,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 309,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 326
+      }],
+      "radius": 72,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 289,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 309
+      }],
+      "radius": 75,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 275,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 289
+      }],
+      "radius": 69,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 265,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 275
+      }],
+      "radius": 65,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 254,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 265
+      }],
+      "radius": 66,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 245,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 254
+      }],
+      "radius": 64,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 238,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 245
+      }],
+      "radius": 62,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 235,
+        "mouseY": 620,
+        "pmouseY": 620,
+        "pmouseX": 238
+      }],
+      "radius": 58,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 236,
+        "mouseY": 621,
+        "pmouseY": 620,
+        "pmouseX": 235
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 242,
+        "mouseY": 625,
+        "pmouseY": 621,
+        "pmouseX": 236
+      }],
+      "radius": 62.21110153198242,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 250,
+        "mouseY": 631,
+        "pmouseY": 625,
+        "pmouseX": 242
+      }],
+      "radius": 65,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 264,
+        "mouseY": 643,
+        "pmouseY": 631,
+        "pmouseX": 250
+      }],
+      "radius": 73.4390869140625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 281,
+        "mouseY": 656,
+        "pmouseY": 643,
+        "pmouseX": 264
+      }],
+      "radius": 76.40093231201172,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 298,
+        "mouseY": 671,
+        "pmouseY": 656,
+        "pmouseX": 281
+      }],
+      "radius": 77.67156982421875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 307,
+        "mouseY": 681,
+        "pmouseY": 671,
+        "pmouseX": 298
+      }],
+      "radius": 68.45362091064453,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 314,
+        "mouseY": 688,
+        "pmouseY": 681,
+        "pmouseX": 307
+      }],
+      "radius": 64.89949798583984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 319,
+        "mouseY": 693,
+        "pmouseY": 688,
+        "pmouseX": 314
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 324,
+        "mouseY": 700,
+        "pmouseY": 693,
+        "pmouseX": 319
+      }],
+      "radius": 63.602325439453125,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 326,
+        "mouseY": 704,
+        "pmouseY": 700,
+        "pmouseX": 324
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 328,
+        "mouseY": 706,
+        "pmouseY": 704,
+        "pmouseX": 326
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 329,
+        "mouseY": 709,
+        "pmouseY": 706,
+        "pmouseX": 328
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 330,
+        "mouseY": 711,
+        "pmouseY": 709,
+        "pmouseX": 329
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 330,
+        "mouseY": 712,
+        "pmouseY": 711,
+        "pmouseX": 330
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 331,
+        "mouseY": 714,
+        "pmouseY": 712,
+        "pmouseX": 330
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 332,
+        "mouseY": 717,
+        "pmouseY": 714,
+        "pmouseX": 331
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 335,
+        "mouseY": 722,
+        "pmouseY": 717,
+        "pmouseX": 332
+      }],
+      "radius": 60.83095169067383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 337,
+        "mouseY": 727,
+        "pmouseY": 722,
+        "pmouseX": 335
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 339,
+        "mouseY": 732,
+        "pmouseY": 727,
+        "pmouseX": 337
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 340,
+        "mouseY": 734,
+        "pmouseY": 732,
+        "pmouseX": 339
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 340,
+        "mouseY": 735,
+        "pmouseY": 734,
+        "pmouseX": 340
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 340,
+        "mouseY": 734,
+        "pmouseY": 735,
+        "pmouseX": 340
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 340,
+        "mouseY": 733,
+        "pmouseY": 734,
+        "pmouseX": 340
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 340,
+        "mouseY": 732,
+        "pmouseY": 733,
+        "pmouseX": 340
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 341,
+        "mouseY": 730,
+        "pmouseY": 732,
+        "pmouseX": 340
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 342,
+        "mouseY": 729,
+        "pmouseY": 730,
+        "pmouseX": 341
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 343,
+        "mouseY": 727,
+        "pmouseY": 729,
+        "pmouseX": 342
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 345,
+        "mouseY": 725,
+        "pmouseY": 727,
+        "pmouseX": 343
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 347,
+        "mouseY": 724,
+        "pmouseY": 725,
+        "pmouseX": 345
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 348,
+        "mouseY": 723,
+        "pmouseY": 724,
+        "pmouseX": 347
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 349,
+        "mouseY": 721,
+        "pmouseY": 723,
+        "pmouseX": 348
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 350,
+        "mouseY": 719,
+        "pmouseY": 721,
+        "pmouseX": 349
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 351,
+        "mouseY": 717,
+        "pmouseY": 719,
+        "pmouseX": 350
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 352,
+        "mouseY": 715,
+        "pmouseY": 717,
+        "pmouseX": 351
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 353,
+        "mouseY": 712,
+        "pmouseY": 715,
+        "pmouseX": 352
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 354,
+        "mouseY": 707,
+        "pmouseY": 712,
+        "pmouseX": 353
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 356,
+        "mouseY": 701,
+        "pmouseY": 707,
+        "pmouseX": 354
+      }],
+      "radius": 61.324554443359375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 356,
+        "mouseY": 694,
+        "pmouseY": 701,
+        "pmouseX": 356
+      }],
+      "radius": 62,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 357,
+        "mouseY": 688,
+        "pmouseY": 694,
+        "pmouseX": 356
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 357,
+        "mouseY": 684,
+        "pmouseY": 688,
+        "pmouseX": 357
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 357,
+        "mouseY": 681,
+        "pmouseY": 684,
+        "pmouseX": 357
+      }],
+      "radius": 58,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 357,
+        "mouseY": 682,
+        "pmouseY": 681,
+        "pmouseX": 357
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 356,
+        "mouseY": 682,
+        "pmouseY": 682,
+        "pmouseX": 357
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 354,
+        "mouseY": 683,
+        "pmouseY": 682,
+        "pmouseX": 356
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 353,
+        "mouseY": 684,
+        "pmouseY": 683,
+        "pmouseX": 354
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 351,
+        "mouseY": 685,
+        "pmouseY": 684,
+        "pmouseX": 353
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 350,
+        "mouseY": 685,
+        "pmouseY": 685,
+        "pmouseX": 351
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 349,
+        "mouseY": 683,
+        "pmouseY": 685,
+        "pmouseX": 350
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 348,
+        "mouseY": 681,
+        "pmouseY": 683,
+        "pmouseX": 349
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 347,
+        "mouseY": 680,
+        "pmouseY": 681,
+        "pmouseX": 348
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 347,
+        "mouseY": 679,
+        "pmouseY": 680,
+        "pmouseX": 347
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 351,
+        "mouseY": 677,
+        "pmouseY": 679,
+        "pmouseX": 347
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 364,
+        "mouseY": 674,
+        "pmouseY": 677,
+        "pmouseX": 351
+      }],
+      "radius": 68.34166717529297,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 385,
+        "mouseY": 671,
+        "pmouseY": 674,
+        "pmouseX": 364
+      }],
+      "radius": 76.21320343017578,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 416,
+        "mouseY": 669,
+        "pmouseY": 671,
+        "pmouseX": 385
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 457,
+        "mouseY": 666,
+        "pmouseY": 669,
+        "pmouseX": 416
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 503,
+        "mouseY": 666,
+        "pmouseY": 666,
+        "pmouseX": 457
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 556,
+        "mouseY": 664,
+        "pmouseY": 666,
+        "pmouseX": 503
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 596,
+        "mouseY": 663,
+        "pmouseY": 664,
+        "pmouseX": 556
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 629,
+        "mouseY": 660,
+        "pmouseY": 663,
+        "pmouseX": 596
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 649,
+        "mouseY": 657,
+        "pmouseY": 660,
+        "pmouseX": 629
+      }],
+      "radius": 75.22374725341797,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 662,
+        "mouseY": 657,
+        "pmouseY": 657,
+        "pmouseX": 649
+      }],
+      "radius": 68,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 670,
+        "mouseY": 657,
+        "pmouseY": 657,
+        "pmouseX": 662
+      }],
+      "radius": 63,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 677,
+        "mouseY": 657,
+        "pmouseY": 657,
+        "pmouseX": 670
+      }],
+      "radius": 62,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 681,
+        "mouseY": 658,
+        "pmouseY": 657,
+        "pmouseX": 677
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 683,
+        "mouseY": 658,
+        "pmouseY": 658,
+        "pmouseX": 681
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 684,
+        "mouseY": 658,
+        "pmouseY": 658,
+        "pmouseX": 683
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 689,
+        "mouseY": 658,
+        "pmouseY": 658,
+        "pmouseX": 684
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 697,
+        "mouseY": 656,
+        "pmouseY": 658,
+        "pmouseX": 689
+      }],
+      "radius": 63.246212005615234,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 707,
+        "mouseY": 654,
+        "pmouseY": 656,
+        "pmouseX": 697
+      }],
+      "radius": 65.19803619384766,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 715,
+        "mouseY": 653,
+        "pmouseY": 654,
+        "pmouseX": 707
+      }],
+      "radius": 63.062255859375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 721,
+        "mouseY": 651,
+        "pmouseY": 653,
+        "pmouseX": 715
+      }],
+      "radius": 61.324554443359375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 726,
+        "mouseY": 651,
+        "pmouseY": 651,
+        "pmouseX": 721
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 730,
+        "mouseY": 650,
+        "pmouseY": 651,
+        "pmouseX": 726
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 734,
+        "mouseY": 650,
+        "pmouseY": 650,
+        "pmouseX": 730
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 738,
+        "mouseY": 650,
+        "pmouseY": 650,
+        "pmouseX": 734
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 742,
+        "mouseY": 650,
+        "pmouseY": 650,
+        "pmouseX": 738
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 747,
+        "mouseY": 650,
+        "pmouseY": 650,
+        "pmouseX": 742
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 752,
+        "mouseY": 651,
+        "pmouseY": 650,
+        "pmouseX": 747
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 756,
+        "mouseY": 652,
+        "pmouseY": 651,
+        "pmouseX": 752
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 760,
+        "mouseY": 652,
+        "pmouseY": 652,
+        "pmouseX": 756
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 761,
+        "mouseY": 652,
+        "pmouseY": 652,
+        "pmouseX": 760
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 761,
+        "mouseY": 653,
+        "pmouseY": 652,
+        "pmouseX": 761
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 762,
+        "mouseY": 656,
+        "pmouseY": 653,
+        "pmouseX": 761
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 763,
+        "mouseY": 660,
+        "pmouseY": 656,
+        "pmouseX": 762
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 764,
+        "mouseY": 665,
+        "pmouseY": 660,
+        "pmouseX": 763
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 764,
+        "mouseY": 671,
+        "pmouseY": 665,
+        "pmouseX": 764
+      }],
+      "radius": 61,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 764,
+        "mouseY": 678,
+        "pmouseY": 671,
+        "pmouseX": 764
+      }],
+      "radius": 62,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 762,
+        "mouseY": 684,
+        "pmouseY": 678,
+        "pmouseX": 764
+      }],
+      "radius": 61.324554443359375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 757,
+        "mouseY": 693,
+        "pmouseY": 684,
+        "pmouseX": 762
+      }],
+      "radius": 65.2956314086914,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 752,
+        "mouseY": 700,
+        "pmouseY": 693,
+        "pmouseX": 757
+      }],
+      "radius": 63.602325439453125,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 746,
+        "mouseY": 708,
+        "pmouseY": 700,
+        "pmouseX": 752
+      }],
+      "radius": 65,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 742,
+        "mouseY": 714,
+        "pmouseY": 708,
+        "pmouseX": 746
+      }],
+      "radius": 62.21110153198242,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 738,
+        "mouseY": 719,
+        "pmouseY": 714,
+        "pmouseX": 742
+      }],
+      "radius": 61.40312576293945,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 735,
+        "mouseY": 722,
+        "pmouseY": 719,
+        "pmouseX": 738
+      }],
+      "radius": 59.24264144897461,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 732,
+        "mouseY": 725,
+        "pmouseY": 722,
+        "pmouseX": 735
+      }],
+      "radius": 59.24264144897461,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 728,
+        "mouseY": 727,
+        "pmouseY": 725,
+        "pmouseX": 732
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 724,
+        "mouseY": 728,
+        "pmouseY": 727,
+        "pmouseX": 728
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 715,
+        "mouseY": 728,
+        "pmouseY": 728,
+        "pmouseX": 724
+      }],
+      "radius": 64,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 704,
+        "mouseY": 726,
+        "pmouseY": 728,
+        "pmouseX": 715
+      }],
+      "radius": 66.18034362792969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 696,
+        "mouseY": 725,
+        "pmouseY": 726,
+        "pmouseX": 704
+      }],
+      "radius": 63.062255859375,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 688,
+        "mouseY": 725,
+        "pmouseY": 725,
+        "pmouseX": 696
+      }],
+      "radius": 63,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 678,
+        "mouseY": 724,
+        "pmouseY": 725,
+        "pmouseX": 688
+      }],
+      "radius": 65.04987335205078,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 663,
+        "mouseY": 723,
+        "pmouseY": 724,
+        "pmouseX": 678
+      }],
+      "radius": 70.03329467773438,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 633,
+        "mouseY": 721,
+        "pmouseY": 723,
+        "pmouseX": 663
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 598,
+        "mouseY": 718,
+        "pmouseY": 721,
+        "pmouseX": 633
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 564,
+        "mouseY": 718,
+        "pmouseY": 718,
+        "pmouseX": 598
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 544,
+        "mouseY": 721,
+        "pmouseY": 718,
+        "pmouseX": 564
+      }],
+      "radius": 75.22374725341797,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 522,
+        "mouseY": 724,
+        "pmouseY": 721,
+        "pmouseX": 544
+      }],
+      "radius": 77.20360565185547,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 499,
+        "mouseY": 725,
+        "pmouseY": 724,
+        "pmouseX": 522
+      }],
+      "radius": 78.021728515625,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 465,
+        "mouseY": 723,
+        "pmouseY": 725,
+        "pmouseX": 499
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 434,
+        "mouseY": 721,
+        "pmouseY": 723,
+        "pmouseX": 465
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 410,
+        "mouseY": 721,
+        "pmouseY": 721,
+        "pmouseX": 434
+      }],
+      "radius": 79,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 399,
+        "mouseY": 722,
+        "pmouseY": 721,
+        "pmouseX": 410
+      }],
+      "radius": 66.04536437988281,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 390,
+        "mouseY": 725,
+        "pmouseY": 722,
+        "pmouseX": 399
+      }],
+      "radius": 64.48683166503906,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 383,
+        "mouseY": 727,
+        "pmouseY": 725,
+        "pmouseX": 390
+      }],
+      "radius": 62.28010940551758,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 372,
+        "mouseY": 730,
+        "pmouseY": 727,
+        "pmouseX": 383
+      }],
+      "radius": 66.4017562866211,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 361,
+        "mouseY": 732,
+        "pmouseY": 730,
+        "pmouseX": 372
+      }],
+      "radius": 66.18034362792969,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 352,
+        "mouseY": 734,
+        "pmouseY": 732,
+        "pmouseX": 361
+      }],
+      "radius": 64.21954345703125,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 348,
+        "mouseY": 736,
+        "pmouseY": 734,
+        "pmouseX": 352
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 347,
+        "mouseY": 736,
+        "pmouseY": 736,
+        "pmouseX": 348
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 347,
+        "mouseY": 737,
+        "pmouseY": 736,
+        "pmouseX": 347
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 352,
+        "mouseY": 737,
+        "pmouseY": 737,
+        "pmouseX": 347
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 368,
+        "mouseY": 738,
+        "pmouseY": 737,
+        "pmouseX": 352
+      }],
+      "radius": 71.03121948242188,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 395,
+        "mouseY": 738,
+        "pmouseY": 738,
+        "pmouseX": 368
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 443,
+        "mouseY": 736,
+        "pmouseY": 738,
+        "pmouseX": 395
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 502,
+        "mouseY": 732,
+        "pmouseY": 736,
+        "pmouseX": 443
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 580,
+        "mouseY": 724,
+        "pmouseY": 732,
+        "pmouseX": 502
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 643,
+        "mouseY": 714,
+        "pmouseY": 724,
+        "pmouseX": 580
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 695,
+        "mouseY": 704,
+        "pmouseY": 714,
+        "pmouseX": 643
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 725,
+        "mouseY": 696,
+        "pmouseY": 704,
+        "pmouseX": 695
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 747,
+        "mouseY": 691,
+        "pmouseY": 696,
+        "pmouseX": 725
+      }],
+      "radius": 77.56102752685547,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 764,
+        "mouseY": 689,
+        "pmouseY": 691,
+        "pmouseX": 747
+      }],
+      "radius": 72.11724090576172,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 777,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 764
+      }],
+      "radius": 68,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 787,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 777
+      }],
+      "radius": 65,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 792,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 787
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 794,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 792
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 795,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 794
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 794,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 795
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 793,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 794
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 791,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 793
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 790,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 791
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 789,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 790
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "e32c7e",
+      "lines": [{
+        "mouseX": 788,
+        "mouseY": 689,
+        "pmouseY": 689,
+        "pmouseX": 789
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 540,
+        "mouseY": 567,
+        "pmouseY": 568,
+        "pmouseX": 540
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 540,
+        "mouseY": 565,
+        "pmouseY": 567,
+        "pmouseX": 540
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 539,
+        "mouseY": 561,
+        "pmouseY": 565,
+        "pmouseX": 540
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 538,
+        "mouseY": 555,
+        "pmouseY": 561,
+        "pmouseX": 539
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 537,
+        "mouseY": 548,
+        "pmouseY": 555,
+        "pmouseX": 538
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 536,
+        "mouseY": 536,
+        "pmouseY": 548,
+        "pmouseX": 537
+      }],
+      "radius": 67.04159545898438,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 535,
+        "mouseY": 518,
+        "pmouseY": 536,
+        "pmouseX": 536
+      }],
+      "radius": 73.02775573730469,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 532,
+        "mouseY": 490,
+        "pmouseY": 518,
+        "pmouseX": 535
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 530,
+        "mouseY": 462,
+        "pmouseY": 490,
+        "pmouseX": 532
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 525,
+        "mouseY": 432,
+        "pmouseY": 462,
+        "pmouseX": 530
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 521,
+        "mouseY": 410,
+        "pmouseY": 432,
+        "pmouseX": 525
+      }],
+      "radius": 77.36067962646484,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 517,
+        "mouseY": 390,
+        "pmouseY": 410,
+        "pmouseX": 521
+      }],
+      "radius": 75.39608001708984,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 514,
+        "mouseY": 376,
+        "pmouseY": 390,
+        "pmouseX": 517
+      }],
+      "radius": 69.31782531738281,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 513,
+        "mouseY": 364,
+        "pmouseY": 376,
+        "pmouseX": 514
+      }],
+      "radius": 67.04159545898438,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 511,
+        "mouseY": 356,
+        "pmouseY": 364,
+        "pmouseX": 513
+      }],
+      "radius": 63.246212005615234,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 510,
+        "mouseY": 348,
+        "pmouseY": 356,
+        "pmouseX": 511
+      }],
+      "radius": 63.062255859375,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 508,
+        "mouseY": 342,
+        "pmouseY": 348,
+        "pmouseX": 510
+      }],
+      "radius": 61.324554443359375,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 508,
+        "mouseY": 337,
+        "pmouseY": 342,
+        "pmouseX": 508
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 507,
+        "mouseY": 332,
+        "pmouseY": 337,
+        "pmouseX": 508
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 506,
+        "mouseY": 327,
+        "pmouseY": 332,
+        "pmouseX": 507
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 505,
+        "mouseY": 321,
+        "pmouseY": 327,
+        "pmouseX": 506
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 504,
+        "mouseY": 312,
+        "pmouseY": 321,
+        "pmouseX": 505
+      }],
+      "radius": 64.05538940429688,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 503,
+        "mouseY": 303,
+        "pmouseY": 312,
+        "pmouseX": 504
+      }],
+      "radius": 64.05538940429688,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 502,
+        "mouseY": 294,
+        "pmouseY": 303,
+        "pmouseX": 503
+      }],
+      "radius": 64.05538940429688,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 501,
+        "mouseY": 288,
+        "pmouseY": 294,
+        "pmouseX": 502
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 500,
+        "mouseY": 285,
+        "pmouseY": 288,
+        "pmouseX": 501
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 500,
+        "mouseY": 283,
+        "pmouseY": 285,
+        "pmouseX": 500
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 500,
+        "mouseY": 282,
+        "pmouseY": 283,
+        "pmouseX": 500
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 500,
+        "mouseY": 281,
+        "pmouseY": 282,
+        "pmouseX": 500
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 499,
+        "mouseY": 278,
+        "pmouseY": 281,
+        "pmouseX": 500
+      }],
+      "radius": 58.16227722167969,
+      "points": []
+    },
+    {
+      "color": "ffb241",
+      "lines": [{
+        "mouseX": 499,
+        "mouseY": 276,
+        "pmouseY": 278,
+        "pmouseX": 499
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 519,
+        "mouseY": 279,
+        "pmouseY": 279,
+        "pmouseX": 518
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 524,
+        "mouseY": 279,
+        "pmouseY": 279,
+        "pmouseX": 519
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 536,
+        "mouseY": 279,
+        "pmouseY": 279,
+        "pmouseX": 524
+      }],
+      "radius": 67,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 560,
+        "mouseY": 282,
+        "pmouseY": 279,
+        "pmouseX": 536
+      }],
+      "radius": 79.18677520751953,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 588,
+        "mouseY": 287,
+        "pmouseY": 282,
+        "pmouseX": 560
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 624,
+        "mouseY": 294,
+        "pmouseY": 287,
+        "pmouseX": 588
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 664,
+        "mouseY": 302,
+        "pmouseY": 294,
+        "pmouseX": 624
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 712,
+        "mouseY": 313,
+        "pmouseY": 302,
+        "pmouseX": 664
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 751,
+        "mouseY": 322,
+        "pmouseY": 313,
+        "pmouseX": 712
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 784,
+        "mouseY": 328,
+        "pmouseY": 322,
+        "pmouseX": 751
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 802,
+        "mouseY": 330,
+        "pmouseY": 328,
+        "pmouseX": 784
+      }],
+      "radius": 73.11077117919922,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 811,
+        "mouseY": 331,
+        "pmouseY": 330,
+        "pmouseX": 802
+      }],
+      "radius": 64.05538940429688,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 813,
+        "mouseY": 331,
+        "pmouseY": 331,
+        "pmouseX": 811
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 812,
+        "mouseY": 331,
+        "pmouseY": 331,
+        "pmouseX": 813
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 808,
+        "mouseY": 331,
+        "pmouseY": 331,
+        "pmouseX": 812
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 802,
+        "mouseY": 332,
+        "pmouseY": 331,
+        "pmouseX": 808
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 797,
+        "mouseY": 334,
+        "pmouseY": 332,
+        "pmouseX": 802
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 790,
+        "mouseY": 335,
+        "pmouseY": 334,
+        "pmouseX": 797
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 780,
+        "mouseY": 338,
+        "pmouseY": 335,
+        "pmouseX": 790
+      }],
+      "radius": 65.4403076171875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 769,
+        "mouseY": 343,
+        "pmouseY": 338,
+        "pmouseX": 780
+      }],
+      "radius": 67.08304595947266,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 755,
+        "mouseY": 350,
+        "pmouseY": 343,
+        "pmouseX": 769
+      }],
+      "radius": 70.65247344970703,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 743,
+        "mouseY": 356,
+        "pmouseY": 350,
+        "pmouseX": 755
+      }],
+      "radius": 68.4164047241211,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 728,
+        "mouseY": 364,
+        "pmouseY": 356,
+        "pmouseX": 743
+      }],
+      "radius": 72,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 714,
+        "mouseY": 373,
+        "pmouseY": 364,
+        "pmouseX": 728
+      }],
+      "radius": 71.64331817626953,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 697,
+        "mouseY": 384,
+        "pmouseY": 373,
+        "pmouseX": 714
+      }],
+      "radius": 75.24845886230469,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 679,
+        "mouseY": 395,
+        "pmouseY": 384,
+        "pmouseX": 697
+      }],
+      "radius": 76.09502410888672,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 660,
+        "mouseY": 408,
+        "pmouseY": 395,
+        "pmouseX": 679
+      }],
+      "radius": 78.021728515625,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 645,
+        "mouseY": 417,
+        "pmouseY": 408,
+        "pmouseX": 660
+      }],
+      "radius": 72.49285888671875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 631,
+        "mouseY": 423,
+        "pmouseY": 417,
+        "pmouseX": 645
+      }],
+      "radius": 70.2315444946289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 621,
+        "mouseY": 427,
+        "pmouseY": 423,
+        "pmouseX": 631
+      }],
+      "radius": 65.77033233642578,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 615,
+        "mouseY": 430,
+        "pmouseY": 427,
+        "pmouseX": 621
+      }],
+      "radius": 61.70820236206055,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 613,
+        "mouseY": 432,
+        "pmouseY": 430,
+        "pmouseX": 615
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 611,
+        "mouseY": 434,
+        "pmouseY": 432,
+        "pmouseX": 613
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 609,
+        "mouseY": 436,
+        "pmouseY": 434,
+        "pmouseX": 611
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 606,
+        "mouseY": 438,
+        "pmouseY": 436,
+        "pmouseX": 609
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 440,
+        "pmouseY": 438,
+        "pmouseX": 606
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 601,
+        "mouseY": 442,
+        "pmouseY": 440,
+        "pmouseX": 603
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 599,
+        "mouseY": 443,
+        "pmouseY": 442,
+        "pmouseX": 601
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 597,
+        "mouseY": 446,
+        "pmouseY": 443,
+        "pmouseX": 599
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 594,
+        "mouseY": 448,
+        "pmouseY": 446,
+        "pmouseX": 597
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 590,
+        "mouseY": 451,
+        "pmouseY": 448,
+        "pmouseX": 594
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 588,
+        "mouseY": 454,
+        "pmouseY": 451,
+        "pmouseX": 590
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 585,
+        "mouseY": 456,
+        "pmouseY": 454,
+        "pmouseX": 588
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 583,
+        "mouseY": 458,
+        "pmouseY": 456,
+        "pmouseX": 585
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 580,
+        "mouseY": 460,
+        "pmouseY": 458,
+        "pmouseX": 583
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 578,
+        "mouseY": 461,
+        "pmouseY": 460,
+        "pmouseX": 580
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 577,
+        "mouseY": 462,
+        "pmouseY": 461,
+        "pmouseX": 578
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 576,
+        "mouseY": 462,
+        "pmouseY": 462,
+        "pmouseX": 577
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 575,
+        "mouseY": 458,
+        "pmouseY": 462,
+        "pmouseX": 576
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 574,
+        "mouseY": 451,
+        "pmouseY": 458,
+        "pmouseX": 575
+      }],
+      "radius": 62.071067810058594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 572,
+        "mouseY": 435,
+        "pmouseY": 451,
+        "pmouseX": 574
+      }],
+      "radius": 71.12451171875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 569,
+        "mouseY": 415,
+        "pmouseY": 435,
+        "pmouseX": 572
+      }],
+      "radius": 75.22374725341797,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 560,
+        "mouseY": 392,
+        "pmouseY": 415,
+        "pmouseX": 569
+      }],
+      "radius": 79.69818115234375,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 548,
+        "mouseY": 367,
+        "pmouseY": 392,
+        "pmouseX": 560
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 539,
+        "mouseY": 351,
+        "pmouseY": 367,
+        "pmouseX": 548
+      }],
+      "radius": 73.35755920410156,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 534,
+        "mouseY": 341,
+        "pmouseY": 351,
+        "pmouseX": 539
+      }],
+      "radius": 66.18034362792969,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 532,
+        "mouseY": 336,
+        "pmouseY": 341,
+        "pmouseX": 534
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 332,
+        "pmouseY": 336,
+        "pmouseX": 532
+      }],
+      "radius": 59.123104095458984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 328,
+        "pmouseY": 332,
+        "pmouseX": 531
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 325,
+        "pmouseY": 328,
+        "pmouseX": 531
+      }],
+      "radius": 58,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 322,
+        "pmouseY": 325,
+        "pmouseX": 531
+      }],
+      "radius": 58,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 320,
+        "pmouseY": 322,
+        "pmouseX": 531
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 319,
+        "pmouseY": 320,
+        "pmouseX": 531
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 318,
+        "pmouseY": 319,
+        "pmouseX": 531
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 531,
+        "mouseY": 316,
+        "pmouseY": 318,
+        "pmouseX": 531
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 532,
+        "mouseY": 311,
+        "pmouseY": 316,
+        "pmouseX": 531
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 305,
+        "pmouseY": 311,
+        "pmouseX": 532
+      }],
+      "radius": 61.082763671875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 301,
+        "pmouseY": 305,
+        "pmouseX": 533
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 299,
+        "pmouseY": 301,
+        "pmouseX": 533
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 297,
+        "pmouseY": 299,
+        "pmouseX": 533
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 296,
+        "pmouseY": 297,
+        "pmouseX": 533
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 295,
+        "pmouseY": 296,
+        "pmouseX": 533
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 533,
+        "mouseY": 294,
+        "pmouseY": 295,
+        "pmouseX": 533
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 534,
+        "mouseY": 294,
+        "pmouseY": 294,
+        "pmouseX": 533
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 543,
+        "mouseY": 298,
+        "pmouseY": 294,
+        "pmouseX": 534
+      }],
+      "radius": 64.84886169433594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 560,
+        "mouseY": 307,
+        "pmouseY": 298,
+        "pmouseX": 543
+      }],
+      "radius": 74.23538208007812,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 589,
+        "mouseY": 324,
+        "pmouseY": 307,
+        "pmouseX": 560
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 626,
+        "mouseY": 338,
+        "pmouseY": 324,
+        "pmouseX": 589
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 668,
+        "mouseY": 347,
+        "pmouseY": 338,
+        "pmouseX": 626
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 693,
+        "mouseY": 349,
+        "pmouseY": 347,
+        "pmouseX": 668
+      }],
+      "radius": 80,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 702,
+        "mouseY": 349,
+        "pmouseY": 349,
+        "pmouseX": 693
+      }],
+      "radius": 64,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 703,
+        "mouseY": 349,
+        "pmouseY": 349,
+        "pmouseX": 702
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 702,
+        "mouseY": 349,
+        "pmouseY": 349,
+        "pmouseX": 703
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 697,
+        "mouseY": 349,
+        "pmouseY": 349,
+        "pmouseX": 702
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 687,
+        "mouseY": 349,
+        "pmouseY": 349,
+        "pmouseX": 697
+      }],
+      "radius": 65,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 671,
+        "mouseY": 351,
+        "pmouseY": 349,
+        "pmouseX": 687
+      }],
+      "radius": 71.12451171875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 649,
+        "mouseY": 354,
+        "pmouseY": 351,
+        "pmouseX": 671
+      }],
+      "radius": 77.20360565185547,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 634,
+        "mouseY": 357,
+        "pmouseY": 354,
+        "pmouseX": 649
+      }],
+      "radius": 70.29705810546875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 621,
+        "mouseY": 359,
+        "pmouseY": 357,
+        "pmouseX": 634
+      }],
+      "radius": 68.15294647216797,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 612,
+        "mouseY": 361,
+        "pmouseY": 359,
+        "pmouseX": 621
+      }],
+      "radius": 64.21954345703125,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 607,
+        "mouseY": 363,
+        "pmouseY": 361,
+        "pmouseX": 612
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 605,
+        "mouseY": 365,
+        "pmouseY": 363,
+        "pmouseX": 607
+      }],
+      "radius": 57.828426361083984,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 604,
+        "mouseY": 365,
+        "pmouseY": 365,
+        "pmouseX": 605
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 366,
+        "pmouseY": 365,
+        "pmouseX": 604
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 367,
+        "pmouseY": 366,
+        "pmouseX": 603
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 371,
+        "pmouseY": 367,
+        "pmouseX": 603
+      }],
+      "radius": 59,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 376,
+        "pmouseY": 371,
+        "pmouseX": 603
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 381,
+        "pmouseY": 376,
+        "pmouseX": 603
+      }],
+      "radius": 60,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 384,
+        "pmouseY": 381,
+        "pmouseX": 603
+      }],
+      "radius": 58,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 386,
+        "pmouseY": 384,
+        "pmouseX": 603
+      }],
+      "radius": 57,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 387,
+        "pmouseY": 386,
+        "pmouseX": 603
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 388,
+        "pmouseY": 387,
+        "pmouseX": 603
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 603,
+        "mouseY": 389,
+        "pmouseY": 388,
+        "pmouseX": 603
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 604,
+        "mouseY": 390,
+        "pmouseY": 389,
+        "pmouseX": 603
+      }],
+      "radius": 56.414215087890625,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 606,
+        "mouseY": 393,
+        "pmouseY": 390,
+        "pmouseX": 604
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 607,
+        "mouseY": 395,
+        "pmouseY": 393,
+        "pmouseX": 606
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 608,
+        "mouseY": 395,
+        "pmouseY": 395,
+        "pmouseX": 607
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 608,
+        "mouseY": 394,
+        "pmouseY": 395,
+        "pmouseX": 608
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 609,
+        "mouseY": 389,
+        "pmouseY": 394,
+        "pmouseX": 608
+      }],
+      "radius": 60.09901809692383,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 613,
+        "mouseY": 381,
+        "pmouseY": 389,
+        "pmouseX": 609
+      }],
+      "radius": 63.944271087646484,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 617,
+        "mouseY": 375,
+        "pmouseY": 381,
+        "pmouseX": 613
+      }],
+      "radius": 62.21110153198242,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 619,
+        "mouseY": 370,
+        "pmouseY": 375,
+        "pmouseX": 617
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 620,
+        "mouseY": 368,
+        "pmouseY": 370,
+        "pmouseX": 619
+      }],
+      "radius": 57.23606872558594,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 590,
+        "mouseY": 326,
+        "pmouseY": 325,
+        "pmouseX": 590
+      }],
+      "radius": 56,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 592,
+        "mouseY": 330,
+        "pmouseY": 326,
+        "pmouseX": 590
+      }],
+      "radius": 59.472137451171875,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 594,
+        "mouseY": 335,
+        "pmouseY": 330,
+        "pmouseX": 592
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 597,
+        "mouseY": 341,
+        "pmouseY": 335,
+        "pmouseX": 594
+      }],
+      "radius": 61.70820236206055,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 599,
+        "mouseY": 346,
+        "pmouseY": 341,
+        "pmouseX": 597
+      }],
+      "radius": 60.38516616821289,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 601,
+        "mouseY": 349,
+        "pmouseY": 346,
+        "pmouseX": 599
+      }],
+      "radius": 58.605552673339844,
+      "points": []
+    },
+    {
+      "color": "39b876",
+      "lines": [{
+        "mouseX": 601,
+        "mouseY": 350,
+        "pmouseY": 349,
+        "pmouseX": 601
+      }],
+      "radius": 56,
+      "points": []
+    }
+  ]
+}
